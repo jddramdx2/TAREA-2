@@ -1,0 +1,7 @@
+C:\Users\Specialist\source\repos\UpiTarea1progra2\UpiTarea1progra2\bin\Debug\UpiTarea1progra2.exe.config
+C:\Users\Specialist\source\repos\UpiTarea1progra2\UpiTarea1progra2\bin\Debug\UpiTarea1progra2.exe
+C:\Users\Specialist\source\repos\UpiTarea1progra2\UpiTarea1progra2\bin\Debug\UpiTarea1progra2.pdb
+C:\Users\Specialist\source\repos\UpiTarea1progra2\UpiTarea1progra2\obj\Debug\UpiTarea1progra2.csproj.AssemblyReference.cache
+C:\Users\Specialist\source\repos\UpiTarea1progra2\UpiTarea1progra2\obj\Debug\UpiTarea1progra2.csproj.CoreCompileInputs.cache
+C:\Users\Specialist\source\repos\UpiTarea1progra2\UpiTarea1progra2\obj\Debug\UpiTarea1progra2.exe
+C:\Users\Specialist\source\repos\UpiTarea1progra2\UpiTarea1progra2\obj\Debug\UpiTarea1progra2.pdb
